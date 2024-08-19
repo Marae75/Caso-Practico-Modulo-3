@@ -30,7 +30,7 @@ Se cuenta con dos base de datos, que contienen informacion de las ventas del res
 | Mas Caro      | Shrimp Scampi       |   $19.95 |
 
 
--El restuarante cuenta con 6 platilos Americanos
+- El restuarante cuenta con 6 platilos Americanos
 
 
 |   | Platillos Americanos  |
@@ -43,31 +43,31 @@ Se cuenta con dos base de datos, que contienen informacion de las ventas del res
 | 6     | French Fries |
 
 
--El precio promedio de los 32 platillos es de **$13.29**
+- El precio promedio de los 32 platillos es de **$13.29**
 
--Durante los 3 meses de registros se realizaron **5,370** pedidos unicos
+- Durante los 3 meses de registros se realizaron **5,370** pedidos unicos
 
--El maximo de platillos por orden fue de 14 y se tuvieron 7 ordenes con esta
+- El maximo de platillos por orden fue de 14 y se tuvieron 7 ordenes con esta
 cantidad de platillos
 
--El primer pedido fue el 1ro de enero a las 11:38:36 y el ultimo pedido fue el 31
+- El primer pedido fue el 1ro de enero a las 11:38:36 y el ultimo pedido fue el 31
 de marzo a las 22:15:48
 
--En los primeros 5 días del nuevo menu, se tuvieron 702 pedidos.
+- En los primeros 5 días del nuevo menu, se tuvieron 702 pedidos.
 
--En este periodo de tiempo, la categoria mas pedida es la Asiatica con 3,47
+- En este periodo de tiempo, la categoria mas pedida es la Asiatica con 3,47
 pedidos
 
 
 ![Captura de pantalla 2024-08-18 182948](https://github.com/user-attachments/assets/e6ea33d1-6994-4fcf-9e35-d443c69cf0a0)
 
 
--Los 10 platillos con mas pedidos fueron los siguientes:
+- Los 10 platillos con mas pedidos fueron los siguientes:
 
 ![Captura de pantalla 2024-08-18 183130](https://github.com/user-attachments/assets/28de2441-cb4a-4316-a2d8-6e583c0cfcc7)
 
 
--La cantidad de pedidos del platillo mas y menos caros son los siguientes:
+- La cantidad de pedidos del platillo mas y menos caros son los siguientes:
 
 
 |  | Cantidad de Pedidos  | Platillo  | Precio |
@@ -75,13 +75,13 @@ pedidos
 | Menos Caro    |  620      | Edamame | $5.0 |
 | Mas Caro      |  239      | Shrimp Scampi       |   $19.95 |
 
--Los 5 platillos mas pedidos en la primer y última semana son los siguientes:
+- Los 5 platillos más pedidos en la primer y última semana son los siguientes:
 
--Primera Semana:
+- Primera Semana:
 
 ![Captura de pantalla 2024-08-18 184710](https://github.com/user-attachments/assets/d0c4ed1a-34e5-4a16-bb8d-4d9a4f9cb93d)
 
--Última Semana:
+- Última Semana:
 
 ![Captura de pantalla 2024-08-18 184729](https://github.com/user-attachments/assets/e0dfb1c6-87f9-47e5-a5d2-6f5619fca347)
 
