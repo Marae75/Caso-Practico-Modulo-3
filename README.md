@@ -72,8 +72,8 @@ pedidos
 
 |  | Cantidad de Pedidos  | Platillo  | Precio |
 |:----: | :------------ |:---------------:| -----:|
-| Menos Caro    |  620      | Edamame | $5.0 |
-| Mas Caro      |  239      | Shrimp Scampi       |   $19.95 |
+| Menos Caro    |      620      | Edamame | $5.0 |
+| Mas Caro      |      239      | Shrimp Scampi       |   $19.95 |
 
 - Los 5 platillos más pedidos en la primer y última semana son los siguientes:
 
