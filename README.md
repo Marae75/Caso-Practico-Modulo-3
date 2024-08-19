@@ -44,9 +44,9 @@ Se cuenta con dos base de datos, que contienen informacion de las ventas del res
 
 
 -El precio promedio de los 32 platillos es de **$13.29**
--
+
 -Durante los 3 meses de registros se realizaron **5,370** pedidos unicos
--
+
 -El maximo de platillos por orden fue de 14 y se tuvieron 7 ordenes con esta
 cantidad de platillos
 
@@ -72,12 +72,13 @@ pedidos
 
 |  | Cantidad de Pedidos  | Platillo  | Precio |
 |:----: | :------------ |:---------------:| -----:|
-| Menos Caro  | 620     | Edamame | $5.0 |
-| Mas Caro      | 239      | Shrimp Scampi       |   $19.95 |
+| Menos Caro    |  620      | Edamame | $5.0 |
+| Mas Caro      |  239      | Shrimp Scampi       |   $19.95 |
 
 -Los 5 platillos mas pedidos en la primer y última semana son los siguientes:
 
 -Primera Semana:
+
 ![Captura de pantalla 2024-08-18 184710](https://github.com/user-attachments/assets/d0c4ed1a-34e5-4a16-bb8d-4d9a4f9cb93d)
 
 -Última Semana:
